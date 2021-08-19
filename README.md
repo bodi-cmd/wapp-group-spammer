@@ -20,7 +20,7 @@ After all of this steps, run the script from the console by typing
 `py groupbot.py`
 A new window will appear, and after you scan the QR Code with the app on your phone, press <kbd>Enter</kbd> to initiate the script.
 
-# ENJOY
+#### ENJOY!
 
 
 
